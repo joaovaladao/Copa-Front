@@ -7,6 +7,10 @@ module.exports = {
     extend: {
       fontFamily: {
         sans: 'Roboto, sans-serif',
+      },
+
+      backgroundImage: {
+        app: 'url(/app-bg.png)',
       }
     },
 
